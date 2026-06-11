@@ -4,14 +4,17 @@
 //  Your apps → SDK snippet → Config
 // =============================================
 const firebaseConfig = {
-apiKey: "AIzaSyDIiBdSKMigymz8P4PooMSguP7LoLKvllg",
-  authDomain: "hotel-c4382.firebaseapp.com",
-  databaseURL: "https://hotel-c4382-default-rtdb.firebaseio.com",
-  projectId: "hotel-c4382",
-  storageBucket: "hotel-c4382.firebasestorage.app",
-  messagingSenderId: "879811080075",
-  appId: "1:879811080075:web:656ac50faffced4aee898e",
-  measurementId: "G-EGS10RS2V4"
+
+
+  apiKey: "AIzaSyAG6SUjgU8Fw444Hp4cm99-Tgv_snPzjeg",
+  authDomain: "hotel-city-park.firebaseapp.com",
+  databaseURL: "https://hotel-city-park-default-rtdb.firebaseio.com",
+  projectId: "hotel-city-park",
+  storageBucket: "hotel-city-park.firebasestorage.app",
+  messagingSenderId: "229533997685",
+  appId: "1:229533997685:web:be1d34c42f72e40616b63c",
+  measurementId: "G-8KQMDT535G"
+  
 };
 
 // =============================================
