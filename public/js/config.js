@@ -21,10 +21,10 @@ const firebaseConfig = {
 //  STEP 2: CUSTOMISE YOUR HOTEL DETAILS
 // =============================================
 const HOTEL = {
-  name:     "Grand Hotel",
+  name:     "Hotel City Park",
   tagline:  "Luxury & Comfort",
-  address:  "123 Hotel Street, City, State - 000000",
-  phone:    "+91 00000 00000",
-  email:    "ragulkrishnan511@gmail.com",
+  address:  "155, New No. 161-162, 3rd Street, Cross Cut Road, Gandhipuram, Coimbatore, Tamil Nadu 641012",
+  phone:    "+91 ",
+  email:    "hotel city park",
   currency: "₹"
 };
