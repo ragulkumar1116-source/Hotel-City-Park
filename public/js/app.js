@@ -13,7 +13,7 @@ auth.onAuthStateChanged(user => {
   const name = user.displayName || user.email.split('@')[0];
   setText('uName',    name);
   setText('uInitial', name[0].toUpperCase());
-  setText('sHotelName', HOTEL.name);
+  setText('sHotelName', HOTELCityPark.name);
   document.title = HOTEL.name + ' — Hotel Management';
   initApp();
 });
